@@ -1,7 +1,7 @@
 # Personalized Bloom FIlter Algorithm
 Personalized version of the Bloom Filter Algorithm for duplicate detection of massive datasets of passwords.
 
-![alt text](https://miro.medium.com/max/2400/1*mbZ-UMc7xe8Vt-kmySxrHg.jpeg)
+![alt text](https://miro.medium.com/max/1838/1*HKQtaB1_m6Bt7xqTKr-HXg.png)
 
 ## 2A) Find the ***duplicates***!
 
