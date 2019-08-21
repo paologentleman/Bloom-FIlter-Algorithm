@@ -11,6 +11,12 @@ Given [`passwords2.txt`](https://drive.google.com/open?id=1wTmOU-yqk4qdQYg42Aquh
 * Does it happen that two strings with different characters are hashed to the same value? If yes, could you provide the number of *False Positive*?
 
 ____
+## The Files
+
+* **Final Notebook.ipynb**: The Jupyter notebook which contains the key steps of our work and where we explain each decision we have made and the usage of the algorithm. It shows our outcomes and our results with comments.
+
+* **bloomfilter.py**: BloomFilter class which performs basic class methods (*check*, *add*, *get_size*, *get_hash_count*) used to set the filter.
+____
 
 ## What is Bloom Filter?
 
